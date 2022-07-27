@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oba Adegun</h1>
-<h3 align="center">A passionate data scientist/ analyst from Nigeria</h3>
+<h3 align="center">Data Engineer</h3>
 
 - 🔭 I’m currently working on [PixelPerfect](https://github.com/Akanjii/SRGANupscaling)
 
