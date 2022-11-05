@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Oba Adegun</h1>
-<h3 align="center">A Data Analyst/Engineer from Nigeria</h3>
+<h3 align="center">Data Engineer</h3>
 
 - 🔭 I’m currently working on [PixelPerfect](https://github.com/Akanjii/SRGANupscaling)
 
-- 🌱 I’m currently learning **Python, PostgreSQL, Tableau, PowerBI**
+- 🌱 I’m currently learning **Python, PostgreSQL, Tableau, MongoDB**
 
 - 👨‍💻 All of my projects are available at [troopl.com/oba](troopl.com/oba)
 
