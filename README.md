@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oba Adegun</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on [PixelPerfect](https://github.com/Akanjii/SRGANupscaling)
+- 🔭 I’m currently working on [PixelPerfect](https://pixelperfect.streamlit.app)
 
 <!-- - 🌱 I’m currently learning **Python, PostgreSQL, Tableau, MongoDB**
  -->
